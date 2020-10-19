@@ -26,7 +26,7 @@ SECRET_KEY = '2(d6^h+uev@6@kqdm)-)ifozq364++=bp%$r@6-%rx3wlf8sns'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 LOGIN_URL = '/login'
 
@@ -110,7 +110,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Asia/kolkata'
+TIME_ZONE = 'Asia/Calcutta'
 
 USE_I18N = True
 
