@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Are u sure</h1>
+<p> {{object.title}}</p>
+<p> {{object.content}} </p>
+
+<form method='POST'>{% csrf_token %}
+	<button class="btn btn-danger"> Yes, delete</button>
+</form>
+{% endblock %}

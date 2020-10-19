@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}
+	Title {{this_is}}
+{% endblock title %}
+
+
+{% block content %}
+
+<!-- {{user}}
+{{user.is_authenticated}}
+
+
+{% if user.is_authenticated %}
+
+<h1> User only data </h1>
+	{% for a in list_is %}
+	<li> {{a}} </li>
+	{% endfor %}
+{% endif %} -->
+
+{% for a in blog_list %}
+	{% include "blog/list-inline.html" with blog_post=a detail=False truncate=True %}
+{% endfor %}
+
+{% endblock %}

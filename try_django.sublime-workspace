@@ -1,0 +1,1076 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"Choose"
+			],
+			[
+				"Da",
+				"DateInput"
+			],
+			[
+				"pa",
+				"pass1"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"s",
+				"strong\tTag"
+			],
+			[
+				"res",
+				"res_id"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"log",
+				"logout_page"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"bol",
+				"blog"
+			],
+			[
+				"lo",
+				"login_required"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"con",
+				"comment"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"blog",
+				"blog_list"
+			],
+			[
+				"bl",
+				"blank"
+			],
+			[
+				"ba",
+				"BASE_DIR"
+			],
+			[
+				"J",
+				"join"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"publi",
+				"published"
+			],
+			[
+				"Blo",
+				"BlogPostQuerySet"
+			],
+			[
+				"get",
+				"get_queryset"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"upda",
+				"updated"
+			],
+			[
+				"publis",
+				"publish_date"
+			],
+			[
+				"ca",
+				"card-body"
+			],
+			[
+				"ger",
+				"get_absolute_url"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"BLO",
+				"BlogPostForm"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"blo",
+				"blog_post_detail_page"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"temp",
+				"template_name"
+			],
+			[
+				"conta",
+				"contact_page"
+			],
+			[
+				"about",
+				"about_page"
+			],
+			[
+				"home",
+				"home_page"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"Model",
+				"Model"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"mod",
+				"models"
+			],
+			[
+				"Ch",
+				"CharField"
+			],
+			[
+				"tw",
+				"tweet_text"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"tr",
+				"trial"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"my",
+				"mysite"
+			],
+			[
+				"m",
+				"mxl"
+			],
+			[
+				"mer",
+				"merger"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"val",
+				"val_temp"
+			],
+			[
+				"end",
+				"end_temp"
+			],
+			[
+				"lis",
+				"list_4\tstatement"
+			],
+			[
+				"list",
+				"list_3\tstatement"
+			],
+			[
+				"lsi",
+				"list_2\tstatement"
+			],
+			[
+				"la",
+				"lazy_range\tfunction"
+			],
+			[
+				"col",
+				"colour"
+			],
+			[
+				"v",
+				"vector\tstd::vector"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"lim",
+				"limit_q"
+			],
+			[
+				"an",
+				"ans_d"
+			],
+			[
+				"ans",
+				"ans_a"
+			],
+			[
+				"max",
+				"max_elment"
+			],
+			[
+				"mia",
+				"mina"
+			],
+			[
+				"cur",
+				"cur_end"
+			],
+			[
+				"cur_",
+				"cur_end"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"e",
+				"entity"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"M",
+				"MergeSort"
+			],
+			[
+				"ra",
+				"ran_num"
+			],
+			[
+				"w",
+				"wild"
+			],
+			[
+				"sma",
+				"smaller"
+			],
+			[
+				"n-i",
+				"n-i-2"
+			],
+			[
+				"start",
+				"start_idx"
+			],
+			[
+				"strt",
+				"start_idx"
+			],
+			[
+				"parent",
+				"parentV"
+			],
+			[
+				"paret",
+				"parentV"
+			],
+			[
+				"ran",
+				"Rank"
+			],
+			[
+				"pare",
+				"parentV"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"P",
+				"parentV"
+			],
+			[
+				"u",
+				"Union"
+			],
+			[
+				"be",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"p",
+				"PriorQueue"
+			],
+			[
+				"clu",
+				"cluster_now"
+			],
+			[
+				"clus",
+				"cluster_v"
+			],
+			[
+				"sqrt",
+				"sqrtl"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"pr",
+				"priority_queue"
+			],
+			[
+				"INT_",
+				"INT_MIN"
+			],
+			[
+				"fal",
+				"false"
+			],
+			[
+				"sr",
+				"start"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"dfs",
+				"dfs"
+			],
+			[
+				"stc",
+				"stack"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"cell",
+				"cell_size"
+			],
+			[
+				"ce",
+				"cell_size"
+			],
+			[
+				"ge",
+				"gen"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"fa",
+				"frame_rate"
+			],
+			[
+				"k_",
+				"K_BACKSPACE"
+			],
+			[
+				"po",
+				"point_stack"
+			],
+			[
+				"point",
+				"point_list"
+			],
+			[
+				"width",
+				"Width"
+			],
+			[
+				"cellh",
+				"cellh"
+			],
+			[
+				"show",
+				"show1"
+			],
+			[
+				"dr",
+				"draw1"
+			],
+			[
+				"K_",
+				"K_RETURN"
+			],
+			[
+				"Ke",
+				"KEYDOWN"
+			],
+			[
+				"cel",
+				"cell_size"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"to",
+				"total_groups"
+			],
+			[
+				"tot",
+				"total_groups"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/blog/templates/blog/list.html",
+			"settings":
+			{
+				"buffer_size": 227,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Ma",
+				"Terminus: Close All"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"th",
+				"UI: Select Color Scheme"
+			],
+			[
+				"a",
+				"ayu: Activate theme"
+			],
+			[
+				"Snippet: ",
+				"Snippet: template <typename ${1:_InputIter}>"
+			],
+			[
+				" ",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"acti",
+				"ayu: Activate theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"py test.py",
+			"test.py",
+			"123",
+			"12"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Blog",
+		"/D/Blog/src",
+		"/D/Blog/src/blog",
+		"/D/Blog/src/blog/templates",
+		"/D/Blog/src/blog/templates/blog",
+		"/D/Blog/src/templates",
+		"/D/Blog/src/try_django"
+	],
+	"file_history":
+	[
+		"/D/twitterme2/Pipfile.lock",
+		"/D/twitterme2/Pipfile",
+		"/D/Blog/src/blog/models.py",
+		"/D/Blog/src/blog/form.py",
+		"/D/Blog/src/templates/js.html",
+		"/D/try_django - Copy/src/try_django/urls.py",
+		"/D/try_django - Copy/src/blog/views.py",
+		"/D/try_django - Copy/src/blog/templates/blog/detail.html",
+		"/D/try_django - Copy/src/templates/navbar.html",
+		"/D/try_django - Copy/src/templates/register.html",
+		"/D/try_django - Copy/src/templates/registertrial.html",
+		"/D/try_django - Copy/src/try_django/views.py",
+		"/D/try_django - Copy/src/templates/base.html",
+		"/D/try_django - Copy/src/searches/views.py",
+		"/D/try_django - Copy/src/searches/templates/searches/view.html",
+		"/D/try_django - Copy/src/templates/registertrial.css",
+		"/D/try_django - Copy/src/templates/login.html",
+		"/D/try_django - Copy/src/try_django/settings.py",
+		"/D/try_django - Copy/src/blog/templates/blog/list-inline.html",
+		"/D/try_django - Copy/src/blog/models.py",
+		"/D/try_django - Copy/src/blog/form.py",
+		"/D/try_django - Copy/src/try_django/form.py",
+		"/D/try_django - Copy/src/templates/form.html",
+		"/D/try_django - Copy/src/blog/templates/blog/form.html",
+		"/D/try_django - Copy/src/searches/models.py",
+		"/D/try_django - Copy/src/blog/urls.py",
+		"/D/try_django - Copy/src/blog/templates/blog/delete_comment.html",
+		"/D/try_django - Copy/src/blog/templates/blog/delete.html",
+		"/D/try_django - Copy/src/blog/rough.txt",
+		"/D/try_django - Copy/src/blog/admin.py",
+		"/D/try_django/src/searches/admin.py",
+		"/D/try_django/src/try_django/settings.py",
+		"/D/try_django/src/blog/models.py",
+		"/D/try_django/src/blog/views.py",
+		"/D/try_django/src/blog/templates/blog/list-inline.html",
+		"/D/try_django/src/templates/navbar.html",
+		"/D/try_django/src/blog/form.py",
+		"/D/try_django/src/blog/templates/blog/form.html",
+		"/D/try_django/src/blog/urls.py",
+		"/D/try_django/src/try_django/urls.py",
+		"/D/try_django/static_cdn_test/blank/blank.txt",
+		"/D/try_django/src/blog/templates/blog/detail.html",
+		"/D/try_django/static_cdn_test/media/image/4K-Car-Garage-Tuning-Wallpaper-3840x2160.jpg",
+		"/D/try_django/src/staticfiles/blank.txt",
+		"/D/try_django/src/blog/templates/blog/list.html",
+		"/D/try_django/src/templates/home.html",
+		"/D/try_django/src/templates/base.html",
+		"/D/try_django/src/try_django/views.py",
+		"/D/try_django/src/blog/rough.txt",
+		"/D/try_django/src/templates/js.html",
+		"/D/try_django/src/blog/templates/blog/delete.html",
+		"/D/try_django/src/blog/apps.py",
+		"/D/try_django/src/try_django/form.py",
+		"/D/try_django/src/templates/form.html",
+		"/D/try_django/src/templates/blog_post_create.html",
+		"/D/try_django/src/templates/blog_post_update.html",
+		"/D/try_django/src/templates/blog_post_delete.html",
+		"/D/try_django/src/templates/blog_post_list.html",
+		"/D/codesublime/code/try2.cpp",
+		"/D/try_django/src/templates/blog_post_detail.html",
+		"/D/try_django/src/blog/admin.py",
+		"/D/try_django/src/templates/contact_page.html",
+		"/D/try_django/src/templates/about_page.html",
+		"/D/try_django/src/manage.py",
+		"/D/codesublime/code/input.txt",
+		"/D/codesublime/code/result.txt",
+		"/D/codesublime/code/forms.html",
+		"/D/django_things/mysite/mysite/settings.py",
+		"/D/django_things/mysite/mysite/views.py",
+		"/D/django_things/mysite/mysite/urls.py",
+		"/D/django_things/mysite/polls/urls.py",
+		"/D/django_things/mysite/polls/views.py",
+		"/D/django_things/mysite/polls/models.py",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/python djano3 env.sublime-build",
+		"/D/testin.py",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/Virtualenv.sublime-settings",
+		"/D/django_things/.git/COMMIT_EDITMSG",
+		"/D/codesublime/code/try.cpp",
+		"/D/codesublime/code/test.py",
+		"/D/django_things/mysite/mysite/wsgi.py",
+		"/D/danjango/db.sqlite3",
+		"/D/website_thing/blocks.css",
+		"/D/codesublime/code/fenwik.cpp",
+		"/D/codesublime/code/Sparse_table.cpp",
+		"/D/codesublime/code/segment.cpp",
+		"/D/codesublime/code/trial.html",
+		"/D/codesublime/code/trial2.html",
+		"/D/codesublime/code/web",
+		"/D/z game installation/GAMES/Far cry 5/course 2/week 4/-DViq-IrEemELQpo9cj5Ig_7a81f42c422e4eb59ed8d0320eb16253_Overfitting_Demo_Ridge_Lasso.ipynb/Overfitting_Demo_Ridge_Lasso.ipynb",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/codesublime/code/alv.cpp",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/mpcpp.sublime-snippet",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/vector_int.sublime-snippet",
+		"/D/codesublime/code/trail.cpp",
+		"/D/codesublime/New phase/test.py",
+		"/C/Users/ASUS/AppData/Local/Temp/first.ipynb",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/D/codesublime/code/Trie_dataset.cpp",
+		"/D/codesublime/code/Phone_book_with_trie.cpp",
+		"/D/codesublime/code/priority_queue.cpp",
+		"/D/codesublime/code/Heap_sort_stl_version.cpp",
+		"/D/codesublime/code/QuickSort_with_stress_test.cpp",
+		"/D/codesublime/code/Merge_sort_with_stress_test.cpp",
+		"/D/codesublime/code/mergeSort.cpp",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/Terminus/Default.sublime-keymap",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/cpp_input.sublime-build",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/python_same.sublime-build",
+		"/D/codesublime/code/maze_fun.cpp",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/mless.sublime-snippet",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/User/less.sublime-snippet",
+		"/C/Users/ASUS/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/D/aaaaa/codes/mygamebetter.cpp",
+		"/D/aaaaa/codes/sdasd.cpp",
+		"/D/z game installation/GAMES/Far cry 5/graphs/ZbXGTnQSSm61xk50EvpuTw_b5653e5869ef44c680fb84b29011bd72_course3_2020_07_27/week5_spanning_trees/2_clustering/clustering.cpp",
+		"/D/codesublime/code/Kushral MST.cpp",
+		"/D/z game installation/GAMES/Far cry 5/graphs/ZbXGTnQSSm61xk50EvpuTw_b5653e5869ef44c680fb84b29011bd72_course3_2020_07_27/week5_spanning_trees/1_connecting_points/connecting_points.cpp",
+		"/D/z game installation/GAMES/Far cry 5/graphs/ZbXGTnQSSm61xk50EvpuTw_b5653e5869ef44c680fb84b29011bd72_course3_2020_07_27/week4_paths_in_graphs2/3_exchanging_money/shortest_paths.cpp",
+		"/D/codesublime/code/bellman_ford.cpp",
+		"/D/z game installation/GAMES/Far cry 5/graphs/ZbXGTnQSSm61xk50EvpuTw_b5653e5869ef44c680fb84b29011bd72_course3_2020_07_27/week4_paths_in_graphs2/2_detecting_anomalies/negative_cycle.cpp",
+		"/D/z game installation/GAMES/Far cry 5/graphs/ZbXGTnQSSm61xk50EvpuTw_b5653e5869ef44c680fb84b29011bd72_course3_2020_07_27/week4_paths_in_graphs2/1_minimum_flight_cost/dijkstra.cpp",
+		"/D/z game installation/GAMES/Far cry 5/graphs/ZbXGTnQSSm61xk50EvpuTw_b5653e5869ef44c680fb84b29011bd72_course3_2020_07_27/week3_paths_in_graphs1/2_bipartite/bipartite.cpp",
+		"/D/z game installation/GAMES/Far cry 5/graphs/ZbXGTnQSSm61xk50EvpuTw_b5653e5869ef44c680fb84b29011bd72_course3_2020_07_27/week3_paths_in_graphs1/1_flight_segments/bfs.cpp",
+		"/D/z game installation/GAMES/Far cry 5/graphs/ZbXGTnQSSm61xk50EvpuTw_b5653e5869ef44c680fb84b29011bd72_course3_2020_07_27/week2_graph_decomposition2/3_intersection_reachability/strongly_connected.cpp",
+		"/D/z game installation/GAMES/Far cry 5/graphs/ZbXGTnQSSm61xk50EvpuTw_b5653e5869ef44c680fb84b29011bd72_course3_2020_07_27/week2_graph_decomposition2/2_order_of_courses/toposort.cpp",
+		"/D/codesublime/code/SSC_KOSARAJU.cpp",
+		"/D/z game installation/GAMES/Far cry 5/graphs/ZbXGTnQSSm61xk50EvpuTw_b5653e5869ef44c680fb84b29011bd72_course3_2020_07_27/week2_graph_decomposition2/1_cs_curriculum/acyclicity.cpp"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"redirect",
+			"er",
+			"err",
+			"ST",
+			"STO",
+			"stora",
+			"Message",
+			"fall",
+			"view",
+			"()\n",
+			"blog",
+			"id",
+			"tim",
+			"exi",
+			"exit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/blog/templates/blog/list.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 10":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 11":
+	{
+		"height": 86.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 6":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 7":
+	{
+		"height": 126.0
+	},
+	"output.Terminus 8":
+	{
+		"height": 175.0
+	},
+	"output.Terminus 9":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 72.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "try_django.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
